@@ -1,1 +1,1 @@
-# GROWURK-Data-Science-Internship
+# GROWURK Data Science Internship 
